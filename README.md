@@ -1,6 +1,4 @@
 # Terraform-Lab-with-Azure-Resource-Creation
-Create, Validate, and Destroy Azure Resources with Terraform
-
 ### Objective
 
 Use Terraform in Azure Cloud Shell to create a resource group, virtual network, subnet, and network security group, verify the resources in Azure, and then cleanly destroy them when finished. This SOP provides a repeatable workflow for infrastructure-as-code testing in Azure.
